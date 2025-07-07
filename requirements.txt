@@ -1,0 +1,3 @@
+bencodepy==0.9.5
+certifi==2025.4.26
+tqdm==4.67.1
